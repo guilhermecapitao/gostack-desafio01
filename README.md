@@ -48,4 +48,12 @@
   
    `/projects/:id` - Passando o `id` do projeto através da rota, pode deletar o projeto.
   
-  
+ ## Rodando o projeto:
+
+1 - Baixe o projeto e abra ele utilizando seu editor preferido.
+
+2 - Abra o console e digite `npm install` (ou `yarn install`, se o tiver instalado) para fazer a instalação dos pacotes necessários (dependências).
+
+3 - Após isso, digite no console `npm run dev` ou `yarn dev`(se tiver o yarn instalado), para começar a rodar o servidor com a aplicação.
+
+
